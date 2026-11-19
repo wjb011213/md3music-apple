@@ -1,6 +1,8 @@
 # MD3Music
 
 > **本仓库是 [zzyoxml/md3Music](https://github.com/zzyoxml/md3Music) 的个人修改分支**，主要改动为 Apple Music 风格界面与「我喜欢」双向同步完善。原项目及版权归原作者所有，本仓库同样以 AGPL-3.0 协议开源。第三方深度模型权重不随仓库分发，需要 3D 封面时请按构建脚本说明自行注入。
+>
+> 本分支构建的 Android lite 包：[下载 APK](releases/md3music-apple-lite-v1.0.0.apk)（51.25 MiB，SHA256 `42604ab3331fb43bafa871d65cd9a834d1dac3195131cf703acedfcb49cd4ddb`）。
 
 <div align="center">
 
