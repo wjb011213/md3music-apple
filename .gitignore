@@ -1,0 +1,46 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+pubspec_overrides.yaml
+
+# IDE / 编辑器
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Android
+android/.gradle/
+android/local.properties
+android/keystore.properties
+*.jks
+*.keystore
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# 本机构建 / 调试产物
+dist/
+shots/
+.md3/
+*.log
+hs_err_pid*
+replay_pid*
+emulator.log
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 本地测试音频（由 tools/make_wav.ps1 生成）
+tools/test-tone.wav
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 第三方深度模型权重（许可不允许随源码分发，构建期按需注入）
+android/app/src/depth3d/assets/models/*.onnx
