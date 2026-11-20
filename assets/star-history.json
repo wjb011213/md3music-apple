@@ -312,5 +312,10 @@
     "date": "2026-11-11",
     "stars": 1396,
     "daily_growth": 18
+  },
+  {
+    "date": "2026-11-20",
+    "stars": 1502,
+    "daily_growth": 106
   }
 ]
